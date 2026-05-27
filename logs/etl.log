@@ -1,0 +1,25 @@
+2026-05-26 02:21:53,232 | INFO | ETL PIPELINE STARTED
+2026-05-26 02:21:53,233 | INFO | Starting extraction for school: s4210
+2026-05-26 02:21:53,698 | INFO | Successfully extracted 236 student records from school s4210
+2026-05-26 02:21:56,578 | INFO | Starting extraction for school: s6054
+2026-05-26 02:21:57,057 | INFO | Successfully extracted 264 student records from school s6054
+2026-05-26 02:21:58,342 | INFO | Starting extraction for school: s1022
+2026-05-26 02:21:58,877 | INFO | Successfully extracted 328 student records from school s1022
+2026-05-26 02:22:00,596 | INFO | Starting extraction for school: s5777
+2026-05-26 02:22:01,039 | INFO | Successfully extracted 178 student records from school s5777
+2026-05-26 02:22:03,151 | INFO | Starting extraction for school: s4026
+2026-05-26 02:22:03,719 | INFO | Successfully extracted 437 student records from school s4026
+2026-05-26 02:22:04,904 | INFO | Starting extraction for school: s0189
+2026-05-26 02:22:05,325 | INFO | Successfully extracted 71 student records from school s0189
+2026-05-26 02:22:08,301 | INFO | Starting extraction for school: s0298
+2026-05-26 02:22:08,776 | INFO | Successfully extracted 79 student records from school s0298
+2026-05-26 02:22:09,936 | INFO | Starting extraction for school: s2325
+2026-05-26 02:22:10,342 | INFO | Successfully extracted 101 student records from school s2325
+2026-05-26 02:22:12,098 | INFO | Starting extraction for school: p3097
+2026-05-26 02:22:12,427 | INFO | Successfully extracted 37 student records from school p3097
+2026-05-26 02:22:13,574 | INFO | Starting extraction for school: s4173
+2026-05-26 02:22:14,001 | INFO | Successfully extracted 111 student records from school s4173
+2026-05-26 02:22:15,811 | INFO | TOTAL RECORDS EXTRACTED: 1842
+2026-05-26 02:22:15,862 | INFO | Transformation completed successfully for 1842 records
+2026-05-26 02:22:15,878 | INFO | Dataset loaded successfully into CSV file: data/processed/bmath_school_performance.csv
+2026-05-26 02:22:15,878 | INFO | ETL PIPELINE COMPLETED SUCCESSFULLY
